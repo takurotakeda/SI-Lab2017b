@@ -1,0 +1,11 @@
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\bin\Debug\K4W_v2_Sample_VitalMonitor.exe.config
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\bin\Debug\K4W_v2_Sample_VitalMonitor.exe
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\bin\Debug\K4W_v2_Sample_VitalMonitor.pdb
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.Form1.resources
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.Properties.Resources.resources
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.csproj.GenerateResource.Cache
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.exe
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.pdb
+C:\Users\Tomoaki\Desktop\Folder\K4W-V2\KinectSDK-v2.0_1409\K4W_v2_Sample_VitalMonitor\K4W_v2_Sample_VitalMonitor\obj\Debug\K4W_v2_Sample_VitalMonitor.csprojResolveAssemblyReference.cache
